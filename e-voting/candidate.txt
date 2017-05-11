@@ -1,0 +1,5 @@
+A0,HAM,Mario,18.
+A1,TURKEY,Party,4.
+A2,Juan Carlos,Brazil,6.
+A3,Pedro,Napoleon,10.
+A4,NONE,NOPARTY,4.
